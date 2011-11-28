@@ -1,0 +1,294 @@
+TUntitled4
+v7
+r0
+t323849233.341183
+cCheck dependencies
+cProcessInfoPlistFile /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/Info.plist Untitled4-Info.plist
+cCompileXIB /Users/liu/Documents/Untitled4/MainWindow.xib
+cCompileXIB /Users/liu/Documents/Untitled4/Untitled4ViewController.xib
+cCpResource build/Debug-iphonesimulator/Untitled4.app/34.jpg 34.jpg
+cCpResource build/Debug-iphonesimulator/Untitled4.app/150.png 150.png
+cProcessPCH /var/folders/Bo/BoA+8vHlFrOpb8DpHCgg1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled4_Prefix-ajmaxmorifzejifjomevnwboruxx/Untitled4_Prefix.pch.gch Untitled4_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Objects-normal/i386/main.o /Users/liu/Documents/Untitled4/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Objects-normal/i386/Untitled4AppDelegate.o /Users/liu/Documents/Untitled4/Classes/Untitled4AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Objects-normal/i386/Untitled4ViewController.o /Users/liu/Documents/Untitled4/Classes/Untitled4ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/Untitled4 normal i386
+cGenerateDSYMFile /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app.dSYM /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/Untitled4
+cTouch /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/liu/Documents/Untitled4/150.png
+c000000004D9952D8000000000000419E
+t1301893848
+s16798
+
+N/Users/liu/Documents/Untitled4/34.jpg
+c000000004D995664000000000000330F
+t1301894756
+s13071
+
+N/Users/liu/Documents/Untitled4/Classes/Untitled4AppDelegate.h
+c000000004D9D528800000000000001E1
+t1302155912
+s481
+i<UIKit/UIKit.h>
+
+N/Users/liu/Documents/Untitled4/Classes/Untitled4AppDelegate.m
+c000000004D9D548C0000000000000A91
+t1302156428
+s2705
+i"Untitled4AppDelegate.h"
+i"Untitled4ViewController.h"
+
+N/Users/liu/Documents/Untitled4/Classes/Untitled4ViewController.h
+c000000004D9D528800000000000000EA
+t1302155912
+s234
+i<UIKit/UIKit.h>
+
+N/Users/liu/Documents/Untitled4/Classes/Untitled4ViewController.m
+c000000004D9D548E00000000000004F7
+t1302156430
+s1271
+i"Untitled4ViewController.h"
+
+N/Users/liu/Documents/Untitled4/MainWindow.xib
+c000000004D9D52880000000000004E41
+t1302155912
+s20033
+
+N/Users/liu/Documents/Untitled4/Untitled4ViewController.xib
+c000000004D9D52880000000000001A4D
+t1302155912
+s6733
+
+N/Users/liu/Documents/Untitled4/Untitled4_Prefix.pch
+c000000004D9D528800000000000000BB
+t1302155912
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app
+t1302156433
+s306
+
+N/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app.dSYM
+t1302156433
+s102
+
+N/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/150.png
+t1302156431
+s16798
+
+N/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/34.jpg
+t1302156431
+s13071
+
+N/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/Info.plist
+t1302156430
+s599
+
+N/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/MainWindow.nib
+t1302156431
+s1127
+
+N/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/PkgInfo
+t1302156430
+s8
+
+N/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/Untitled4
+t1302156433
+s17504
+
+N/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/Untitled4ViewController.nib
+t1302156431
+s795
+
+N/Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Objects-normal/i386/Untitled4.LinkFileList
+c000000004D9D548E0000000000000185
+t1302156430
+s389
+
+N/Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Objects-normal/i386/Untitled4AppDelegate.o
+t1302156433
+s51720
+
+N/Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Objects-normal/i386/Untitled4ViewController.o
+t1302156433
+s38460
+
+N/Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Objects-normal/i386/main.o
+t1302156432
+s6288
+
+N/Users/liu/Documents/Untitled4/main.m
+c000000004D9D52880000000000000161
+t1302155912
+s353
+i<UIKit/UIKit.h>
+
+N/var/folders/Bo/BoA+8vHlFrOpb8DpHCgg1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled4_Prefix-ajmaxmorifzejifjomevnwboruxx/Untitled4_Prefix.pch.gch
+t1302156432
+s15453392
+
+NUntitled4-Info.plist
+c000000004D9D5288000000000000038D
+t1302155912
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323849230#323849230#0(0"0(0#1#0"8639405952#0"0#
+
+CCompileC build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Objects-normal/i386/Untitled4AppDelegate.o /Users/liu/Documents/Untitled4/Classes/Untitled4AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323849232.883891
+e323849233.049867
+r1
+xCompileC
+xbuild/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Objects-normal/i386/Untitled4AppDelegate.o
+x/Users/liu/Documents/Untitled4/Classes/Untitled4AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/liu/Documents/Untitled4/Classes/Untitled4AppDelegate.m323849232#323849233#0(0"0(0#0#61"/Users/liu/Documents/Untitled4/Classes/Untitled4AppDelegate.m8623966784#1906"    cd /Users/liu/Documents/Untitled4    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Untitled4-generated-files.hmap -I/Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Untitled4-own-target-headers.hmap -I/Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Untitled4-all-target-headers.hmap -iquote /Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Untitled4-project-headers.hmap -F/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator -I/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/include -I/Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/DerivedSources/i386 -I/Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/DerivedSources -include /var/folders/Bo/BoA+8vHlFrOpb8DpHCgg1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled4_Prefix-ajmaxmorifzejifjomevnwboruxx/Untitled4_Prefix.pch -c /Users/liu/Documents/Untitled4/Classes/Untitled4AppDelegate.m -o /Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Objects-normal/i386/Untitled4AppDelegate.o0#
+
+CCompileC build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Objects-normal/i386/Untitled4ViewController.o /Users/liu/Documents/Untitled4/Classes/Untitled4ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323849233.049998
+e323849233.132517
+r1
+xCompileC
+xbuild/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Objects-normal/i386/Untitled4ViewController.o
+x/Users/liu/Documents/Untitled4/Classes/Untitled4ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/liu/Documents/Untitled4/Classes/Untitled4ViewController.m323849233#323849233#0(0"0(0#0#64"/Users/liu/Documents/Untitled4/Classes/Untitled4ViewController.m8637444096#1912"    cd /Users/liu/Documents/Untitled4    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Untitled4-generated-files.hmap -I/Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Untitled4-own-target-headers.hmap -I/Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Untitled4-all-target-headers.hmap -iquote /Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Untitled4-project-headers.hmap -F/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator -I/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/include -I/Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/DerivedSources/i386 -I/Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/DerivedSources -include /var/folders/Bo/BoA+8vHlFrOpb8DpHCgg1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled4_Prefix-ajmaxmorifzejifjomevnwboruxx/Untitled4_Prefix.pch -c /Users/liu/Documents/Untitled4/Classes/Untitled4ViewController.m -o /Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Objects-normal/i386/Untitled4ViewController.o0#
+
+CCompileC build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Objects-normal/i386/main.o /Users/liu/Documents/Untitled4/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323849232.766475
+e323849232.883743
+r1
+xCompileC
+xbuild/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Objects-normal/i386/main.o
+x/Users/liu/Documents/Untitled4/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/liu/Documents/Untitled4/main.m323849232#323849232#0(0"0(0#0#37"/Users/liu/Documents/Untitled4/main.m8625300320#1866"    cd /Users/liu/Documents/Untitled4    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Untitled4-generated-files.hmap -I/Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Untitled4-own-target-headers.hmap -I/Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Untitled4-all-target-headers.hmap -iquote /Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Untitled4-project-headers.hmap -F/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator -I/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/include -I/Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/DerivedSources/i386 -I/Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/DerivedSources -include /var/folders/Bo/BoA+8vHlFrOpb8DpHCgg1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled4_Prefix-ajmaxmorifzejifjomevnwboruxx/Untitled4_Prefix.pch -c /Users/liu/Documents/Untitled4/main.m -o /Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/liu/Documents/Untitled4/MainWindow.xib
+s323849230.349342
+e323849231.195622
+r1
+xCompileXIB
+x/Users/liu/Documents/Untitled4/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib323849230#323849231#0(0"0(0#0#45"/Users/liu/Documents/Untitled4/MainWindow.xib8632469280#548"    cd /Users/liu/Documents/Untitled4    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/MainWindow.nib /Users/liu/Documents/Untitled4/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/liu/Documents/Untitled4/Untitled4ViewController.xib
+s323849230.351409
+e323849231.106059
+r1
+xCompileXIB
+x/Users/liu/Documents/Untitled4/Untitled4ViewController.xib
+lSLF07#2@38"CompileXIB Untitled4ViewController.xib323849230#323849231#0(0"0(0#0#58"/Users/liu/Documents/Untitled4/Untitled4ViewController.xib8631747616#574"    cd /Users/liu/Documents/Untitled4    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/Untitled4ViewController.nib /Users/liu/Documents/Untitled4/Untitled4ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/Untitled4.app/150.png 150.png
+s323849231.109369
+e323849231.195215
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Untitled4.app/150.png
+x150.png
+lSLF07#2@12"Copy 150.png323849231#323849231#0(0"0(0#0#38"/Users/liu/Documents/Untitled4/150.png8625126496#443"    cd /Users/liu/Documents/Untitled4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/liu/Documents/Untitled4/150.png /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app0#
+
+CCpResource build/Debug-iphonesimulator/Untitled4.app/34.jpg 34.jpg
+s323849231.106243
+e323849231.185259
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Untitled4.app/34.jpg
+x34.jpg
+lSLF07#2@11"Copy 34.jpg323849231#323849231#0(0"0(0#0#37"/Users/liu/Documents/Untitled4/34.jpg8599254816#442"    cd /Users/liu/Documents/Untitled4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/liu/Documents/Untitled4/34.jpg /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app0#
+
+CGenerateDSYMFile /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app.dSYM /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/Untitled4
+s323849233.269390
+e323849233.327447
+r1
+xGenerateDSYMFile
+x/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app.dSYM
+x/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/Untitled4
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Untitled4.app.dSYM build/Debug-iphonesimulator/Untitled4.app/Untitled4323849233#323849233#0(0"0(0#0#82"/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/Untitled48624646688#365"    cd /Users/liu/Documents/Untitled4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/Untitled4 -o /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app.dSYM0#
+
+CLd /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/Untitled4 normal i386
+s323849233.132645
+e323849233.269222
+r1
+xLd
+x/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/Untitled4
+xnormal
+xi386
+lSLF07#2@87"Link /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/Untitled4323849233#323849233#0(0"0(0#0#0"8631703712#870"    cd /Users/liu/Documents/Untitled4    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator -F/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator -filelist /Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Objects-normal/i386/Untitled4.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/Untitled40#
+
+CProcessInfoPlistFile /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/Info.plist Untitled4-Info.plist
+s323849230.309932
+e323849230.349211
+r1
+xProcessInfoPlistFile
+x/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/Info.plist
+xUntitled4-Info.plist
+lSLF07#2@28"Process Untitled4-Info.plist323849230#323849230#0(0"0(0#0#51"/Users/liu/Documents/Untitled4/Untitled4-Info.plist8623034912#461"    cd /Users/liu/Documents/Untitled4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Untitled4-Info.plist -genpkginfo /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app/Info.plist0#
+
+CProcessPCH /var/folders/Bo/BoA+8vHlFrOpb8DpHCgg1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled4_Prefix-ajmaxmorifzejifjomevnwboruxx/Untitled4_Prefix.pch.gch Untitled4_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s323849231.195871
+e323849232.765798
+r1
+xProcessPCH
+x/var/folders/Bo/BoA+8vHlFrOpb8DpHCgg1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled4_Prefix-ajmaxmorifzejifjomevnwboruxx/Untitled4_Prefix.pch.gch
+xUntitled4_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Untitled4_Prefix.pch323849231#323849232#0(0"0(0#0#51"/Users/liu/Documents/Untitled4/Untitled4_Prefix.pch8606356256#1764"    cd /Users/liu/Documents/Untitled4    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Untitled4-generated-files.hmap -I/Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Untitled4-own-target-headers.hmap -I/Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Untitled4-all-target-headers.hmap -iquote /Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/Untitled4-project-headers.hmap -F/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator -I/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/include -I/Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/DerivedSources/i386 -I/Users/liu/Documents/Untitled4/build/Untitled4.build/Debug-iphonesimulator/Untitled4.build/DerivedSources -c /Users/liu/Documents/Untitled4/Untitled4_Prefix.pch -o /var/folders/Bo/BoA+8vHlFrOpb8DpHCgg1++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Untitled4_Prefix-ajmaxmorifzejifjomevnwboruxx/Untitled4_Prefix.pch.gch0#
+
+CTouch /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app
+s323849233.327561
+e323849233.341120
+r1
+xTouch
+x/Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app
+lSLF07#2@78"Touch /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app323849233#323849233#0(0"0(0#0#0"8607856352#264"    cd /Users/liu/Documents/Untitled4    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/liu/Documents/Untitled4/build/Debug-iphonesimulator/Untitled4.app0#
+
